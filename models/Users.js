@@ -28,7 +28,7 @@ User.init(
     },
     
     dni: {
-      type: DataTypes.STRING,
+      type: DataTypes.NUMBER,
       allowNull: false,
     },
 
